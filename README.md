@@ -1,1 +1,2 @@
-# 4_layout_mau
+# Code 4 layout theo mẫu
+## Sử dụng react native
